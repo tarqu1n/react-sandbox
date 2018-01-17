@@ -9,6 +9,7 @@ class ThreeJsBasic extends Component {
 			<div className="indexPage">
 				<ul>
 					<li><Link to="/ThreeJsBasic">ThreeJs basic setup</Link></li>
+					<li><Link to="/PixiJsBasic">PixiJs basic setup</Link></li>
 				</ul>
 			</div>
 		);
